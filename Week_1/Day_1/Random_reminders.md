@@ -27,3 +27,6 @@ console.log (addition(fewerArgs))
 ```
 * in terminal: node sum.js; note: sum.js and process.argv are in the same folder
 
+### template litterals
+* starts and ends with `
+* add $(varName)
